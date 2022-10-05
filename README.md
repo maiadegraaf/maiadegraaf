@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently a student at [codam](https://www.codam.nl/) which is part of the [42 network](https://42.fr/en/network-42/).  You can find an overview of all my codam projects [here](https://github.com/maiadegraaf/CODAM-projects).
+
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8kigvn400730hjwbzdxbs83/stats?cursusId=21&coalitionId=58" alt="mgraaf's 42 stats" /></a>
+</p>
+
+
+
 <!--
 **maiadegraaf/maiadegraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
